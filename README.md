@@ -1,2 +1,2 @@
 # hello-world
-its just another repository. 
+hey there, its me gaurav sharma and i m hungry right now. 
